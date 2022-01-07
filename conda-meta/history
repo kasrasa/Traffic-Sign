@@ -160,3 +160,64 @@
 +defaults/linux-64::pandas-1.3.4-py39h8c16a72_0
 +defaults/noarch::pytz-2021.3-pyhd3eb1b0_0
 # update specs: ['pandas']
+==> 2022-01-04 18:07:58 <==
+# cmd: /home/kasra/anaconda3/bin/conda install tensorflow
+# conda version: 4.11.0
+-defaults/noarch::keras-2.6.0-py39hd3eb1b0_0
++defaults/linux-64::_tflow_select-2.3.0-mkl
++defaults/linux-64::aiohttp-3.8.1-py39h7f8727e_0
++defaults/linux-64::astor-0.8.1-py39h06a4308_0
++defaults/linux-64::blinker-1.4-py39h06a4308_0
++defaults/linux-64::brotlipy-0.7.0-py39h27cfd23_1003
++defaults/linux-64::c-ares-1.17.1-h27cfd23_0
++defaults/linux-64::cryptography-3.4.8-py39hd23ed53_0
++defaults/linux-64::frozenlist-1.2.0-py39h7f8727e_0
++defaults/linux-64::grpcio-1.42.0-py39hce63b2e_0
++defaults/linux-64::h5py-2.10.0-py39hec9cf62_0
++defaults/linux-64::hdf5-1.10.6-hb1b8bf9_0
++defaults/linux-64::libprotobuf-3.17.2-h4ff587b_1
++defaults/linux-64::markdown-3.3.4-py39h06a4308_0
++defaults/linux-64::multidict-5.2.0-py39h7f8727e_2
++defaults/linux-64::protobuf-3.17.2-py39h295c915_0
++defaults/linux-64::pyjwt-2.1.0-py39h06a4308_0
++defaults/linux-64::pysocks-1.7.1-py39h06a4308_0
++defaults/linux-64::pyyaml-6.0-py39h7f8727e_1
++defaults/linux-64::tensorflow-2.4.1-mkl_py39h4683426_0
++defaults/linux-64::tensorflow-base-2.4.1-mkl_py39h43e0292_0
++defaults/linux-64::termcolor-1.1.0-py39h06a4308_1
++defaults/linux-64::wrapt-1.13.3-py39h7f8727e_2
++defaults/linux-64::yaml-0.2.5-h7b6447c_0
++defaults/linux-64::yarl-1.6.3-py39h27cfd23_0
++defaults/noarch::absl-py-0.15.0-pyhd3eb1b0_0
++defaults/noarch::aiosignal-1.2.0-pyhd3eb1b0_0
++defaults/noarch::astunparse-1.6.3-py_0
++defaults/noarch::async-timeout-4.0.1-pyhd3eb1b0_0
++defaults/noarch::cachetools-4.2.2-pyhd3eb1b0_0
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::click-8.0.3-pyhd3eb1b0_0
++defaults/noarch::dataclasses-0.8-pyh6d0b6a4_7
++defaults/noarch::gast-0.4.0-pyhd3eb1b0_0
++defaults/noarch::google-auth-1.33.0-pyhd3eb1b0_0
++defaults/noarch::google-auth-oauthlib-0.4.4-pyhd3eb1b0_0
++defaults/noarch::google-pasta-0.2.0-pyhd3eb1b0_0
++defaults/noarch::idna-3.3-pyhd3eb1b0_0
++defaults/noarch::keras-2.4.3-hd3eb1b0_0
++defaults/noarch::keras-base-2.4.3-pyhd3eb1b0_0
++defaults/noarch::keras-preprocessing-1.1.2-pyhd3eb1b0_0
++defaults/noarch::oauthlib-3.1.1-pyhd3eb1b0_0
++defaults/noarch::opt_einsum-3.3.0-pyhd3eb1b0_1
++defaults/noarch::pyasn1-0.4.8-pyhd3eb1b0_0
++defaults/noarch::pyasn1-modules-0.2.8-py_0
++defaults/noarch::pyopenssl-21.0.0-pyhd3eb1b0_1
++defaults/noarch::python-flatbuffers-2.0-pyhd3eb1b0_0
++defaults/noarch::requests-2.26.0-pyhd3eb1b0_0
++defaults/noarch::requests-oauthlib-1.3.0-py_0
++defaults/noarch::rsa-4.7.2-pyhd3eb1b0_1
++defaults/noarch::tensorboard-2.4.0-pyhc547734_0
++defaults/noarch::tensorboard-plugin-wit-1.6.0-py_0
++defaults/noarch::tensorflow-estimator-2.6.0-pyh7b7c402_0
++defaults/noarch::typing-extensions-3.10.0.2-hd3eb1b0_0
++defaults/noarch::typing_extensions-3.10.0.2-pyh06a4308_0
++defaults/noarch::urllib3-1.26.7-pyhd3eb1b0_0
++defaults/noarch::werkzeug-2.0.2-pyhd3eb1b0_0
+# update specs: ['tensorflow']

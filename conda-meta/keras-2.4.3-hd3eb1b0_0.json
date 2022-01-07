@@ -1,0 +1,39 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "keras-base 2.4.3.*",
+    "tensorflow"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/keras-2.4.3-hd3eb1b0_0",
+  "features": "",
+  "files": [],
+  "fn": "keras-2.4.3-hd3eb1b0_0.conda",
+  "legacy_bz2_md5": "67280dec8d0bfe1bd5eecbb984e44598",
+  "legacy_bz2_size": 5371,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/keras-2.4.3-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "43f5bcb6dfbd333fca0d341b2ec0f241",
+  "name": "keras",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/keras-2.4.3-hd3eb1b0_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ea2ac0a3820bc21bb8cff18de1159cd9ff1e0689dc47d2aab1bdc0cc41a106ee",
+  "size": 5699,
+  "subdir": "noarch",
+  "timestamp": 1629805572587,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/keras-2.4.3-hd3eb1b0_0.conda",
+  "version": "2.4.3"
+}

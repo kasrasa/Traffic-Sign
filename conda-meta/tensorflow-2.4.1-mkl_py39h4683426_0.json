@@ -1,0 +1,40 @@
+{
+  "build": "mkl_py39h4683426_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "_tflow_select 2.3.0 mkl",
+    "python 3.9.*",
+    "tensorboard >=2.4.0",
+    "tensorflow-base 2.4.1 mkl_py39h43e0292_0",
+    "tensorflow-estimator >=2.4.1"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/tensorflow-2.4.1-mkl_py39h4683426_0",
+  "features": "",
+  "files": [],
+  "fn": "tensorflow-2.4.1-mkl_py39h4683426_0.conda",
+  "legacy_bz2_md5": "de983ca49b8c6741e7e2ae960a3e4a19",
+  "legacy_bz2_size": 3462,
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/tensorflow-2.4.1-mkl_py39h4683426_0",
+    "type": 1
+  },
+  "md5": "7ec752d8a6872f8cedb92c01762cbd59",
+  "name": "tensorflow",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/tensorflow-2.4.1-mkl_py39h4683426_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "tensorflow",
+  "sha256": "405968a2e14b538bc432a979c7f35088d9bb1dbf3063105fe94ecda1a0c5f546",
+  "size": 3683,
+  "subdir": "linux-64",
+  "timestamp": 1614594375026,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tensorflow-2.4.1-mkl_py39h4683426_0.conda",
+  "version": "2.4.1"
+}

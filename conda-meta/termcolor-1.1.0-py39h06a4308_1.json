@@ -1,0 +1,61 @@
+{
+  "build": "py39h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/termcolor-1.1.0-py39h06a4308_1",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/__pycache__/termcolor.cpython-39.pyc",
+    "lib/python3.9/site-packages/termcolor-1.1.0-py3.9.egg-info",
+    "lib/python3.9/site-packages/termcolor.py"
+  ],
+  "fn": "termcolor-1.1.0-py39h06a4308_1.conda",
+  "legacy_bz2_md5": "b284eb31ff5e631e0e51d741f09d641a",
+  "legacy_bz2_size": 9181,
+  "license": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/termcolor-1.1.0-py39h06a4308_1",
+    "type": 1
+  },
+  "md5": "9018c351ebc2c18686ab0fd78fcfa297",
+  "name": "termcolor",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/termcolor-1.1.0-py39h06a4308_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/__pycache__/termcolor.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "036450f8200a52a0fd758923566fe2bdc0b49bf8e86f8ae08ceb88c8876f9fb1",
+        "sha256_in_prefix": "036450f8200a52a0fd758923566fe2bdc0b49bf8e86f8ae08ceb88c8876f9fb1",
+        "size_in_bytes": 3123
+      },
+      {
+        "_path": "lib/python3.9/site-packages/termcolor-1.1.0-py3.9.egg-info",
+        "path_type": "hardlink",
+        "sha256": "eceaf6f90b5ec928d3daf18f9d5685cf7233bf0a956eb4b4a0f80681528ff042",
+        "sha256_in_prefix": "eceaf6f90b5ec928d3daf18f9d5685cf7233bf0a956eb4b4a0f80681528ff042",
+        "size_in_bytes": 3997
+      },
+      {
+        "_path": "lib/python3.9/site-packages/termcolor.py",
+        "path_type": "hardlink",
+        "sha256": "3906256065402b158eb6fec9c4889212ffaf26fe450846badf7153ccc7ab63b2",
+        "sha256_in_prefix": "3906256065402b158eb6fec9c4889212ffaf26fe450846badf7153ccc7ab63b2",
+        "size_in_bytes": 5044
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ae8b41680c1d130c3649c0ed980c8e7e27429d2c09b9b1c15a9bb7b002530657",
+  "size": 9324,
+  "subdir": "linux-64",
+  "timestamp": 1613470845326,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/termcolor-1.1.0-py39h06a4308_1.conda",
+  "version": "1.1.0"
+}
