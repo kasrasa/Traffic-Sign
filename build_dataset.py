@@ -42,7 +42,6 @@ for images in test_images_paths:
 
 test_path = os.path.join(config.base_path,'Test.csv')
 test_table = pd.read_csv(test_path)
-test_labels = test_table['ClassId'].values
 test_images = np.array(test_images)
 
 
