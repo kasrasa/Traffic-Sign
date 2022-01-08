@@ -9,7 +9,7 @@ num_classes = 43
 training_images = []
 labels = []
 
-# read in the training images
+# read in the training images (normalize and resize them to a fixed size)
 for classes in range(num_classes):
     images_path = os.path.join(config.Train_path,str(classes))
     train_path = os.listdir(images_path)
@@ -24,10 +24,11 @@ for classes in range(num_classes):
         training_images.append(image)
         labels.append(classes)
 
+# convert training images into numpy array
 training_images = np.array(training_images)
 labels = np.array(labels)
 
-# read in the test images
+# read in the test images (normalize and resize them to a fixed size)
 test_images = []
 test_labels = []
 test_images_paths = os.listdir(config.Test_path)
@@ -40,8 +41,9 @@ for images in test_images_paths:
     image = image/255.0
     test_images.append(image)
 
+# convert test images into numpy array
 test_path = os.path.join(config.base_path,'Test.csv')
-test_table = pd.read_csv(test_path)
+test_table = pd.read_csv(test_path) # contains size and label of each test image
 test_images = np.array(test_images)
 
 
